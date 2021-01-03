@@ -1,0 +1,65 @@
+﻿@page "/Airtours/Countries"
+
+@using DataAccessDapper
+@using DataAccessDapper.Models
+@using BlazorServerApp.Models
+
+@inject ICountriesData _db
+
+<h3>Countries</h3>
+<EditForm Model="@countryViewModel" OnValidSubmit="@InsertCountry">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <InputText @bind-Value="@countryViewModel.Name" />
+    <InputText @bind-Value="@countryViewModel.Code" />
+    <InputText @bind-Value="@countryViewModel.Currency" />
+
+    <button type="submit">Save</button>
+</EditForm>
+
+<h3>Currrent Countries</h3>
+
+@if (countries is null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table table-stripped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Code</th>
+                <th>Currency</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var country in countries)
+            {
+                <tr>
+                    <td>@country.Name</td>
+                    <td>@country.Code</td>
+                    <td>@country.Currency</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<CountryModel> countries;
+    private DisplayCountryModel countryViewModel = new DisplayCountryModel();
+
+    protected override async Task OnInitializedAsync()
+    {
+        countries = await _db.GetCountries();
+    }
+
+    private async Task InsertCountry()
+    {
+        CountryModel country = new(countryViewModel.Name, countryViewModel.Code, countryViewModel.Currency);
+        await _db.InsertCountry(country);
+        countries.Add(country);
+    }
+}

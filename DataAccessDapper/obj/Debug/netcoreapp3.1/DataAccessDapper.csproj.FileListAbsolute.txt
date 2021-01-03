@@ -1,0 +1,9 @@
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\netcoreapp3.1\DataAccessDapper.csprojAssemblyReference.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\netcoreapp3.1\DataAccessDapper.AssemblyInfoInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\netcoreapp3.1\DataAccessDapper.AssemblyInfo.cs
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\netcoreapp3.1\DataAccessDapper.csproj.CoreCompileInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\bin\Debug\netcoreapp3.1\DataAccessDapper.deps.json
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\bin\Debug\netcoreapp3.1\DataAccessDapper.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\bin\Debug\netcoreapp3.1\DataAccessDapper.pdb
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\netcoreapp3.1\DataAccessDapper.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\netcoreapp3.1\DataAccessDapper.pdb
