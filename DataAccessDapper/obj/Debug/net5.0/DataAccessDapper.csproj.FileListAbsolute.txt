@@ -1,0 +1,12 @@
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\bin\Debug\net5.0\DataAccessDapper.deps.json
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\bin\Debug\net5.0\DataAccessDapper.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\bin\Debug\net5.0\ref\DataAccessDapper.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\bin\Debug\net5.0\DataAccessDapper.pdb
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\net5.0\DataAccessDapper.csprojAssemblyReference.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\net5.0\DataAccessDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\net5.0\DataAccessDapper.AssemblyInfoInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\net5.0\DataAccessDapper.AssemblyInfo.cs
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\net5.0\DataAccessDapper.csproj.CoreCompileInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\net5.0\DataAccessDapper.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\net5.0\ref\DataAccessDapper.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\DataAccessDapper\obj\Debug\net5.0\DataAccessDapper.pdb

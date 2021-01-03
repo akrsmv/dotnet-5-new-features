@@ -1,0 +1,16 @@
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\bin\Debug\net5.0\RecordsDemo.exe
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\bin\Debug\net5.0\RecordsDemo.deps.json
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\bin\Debug\net5.0\RecordsDemo.runtimeconfig.json
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\bin\Debug\net5.0\RecordsDemo.runtimeconfig.dev.json
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\bin\Debug\net5.0\RecordsDemo.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\bin\Debug\net5.0\ref\RecordsDemo.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\bin\Debug\net5.0\RecordsDemo.pdb
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\obj\Debug\net5.0\RecordsDemo.csprojAssemblyReference.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\obj\Debug\net5.0\RecordsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\obj\Debug\net5.0\RecordsDemo.AssemblyInfoInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\obj\Debug\net5.0\RecordsDemo.AssemblyInfo.cs
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\obj\Debug\net5.0\RecordsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\obj\Debug\net5.0\RecordsDemo.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\obj\Debug\net5.0\ref\RecordsDemo.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\obj\Debug\net5.0\RecordsDemo.pdb
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\RecordsDemo\obj\Debug\net5.0\RecordsDemo.genruntimeconfig.cache

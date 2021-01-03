@@ -1,0 +1,16 @@
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\bin\Debug\net5.0\SyntaxDemo.exe
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\bin\Debug\net5.0\SyntaxDemo.deps.json
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\bin\Debug\net5.0\SyntaxDemo.runtimeconfig.json
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\bin\Debug\net5.0\SyntaxDemo.runtimeconfig.dev.json
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\bin\Debug\net5.0\SyntaxDemo.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\bin\Debug\net5.0\ref\SyntaxDemo.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\bin\Debug\net5.0\SyntaxDemo.pdb
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\obj\Debug\net5.0\SyntaxDemo.csprojAssemblyReference.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\obj\Debug\net5.0\SyntaxDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\obj\Debug\net5.0\SyntaxDemo.AssemblyInfoInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\obj\Debug\net5.0\SyntaxDemo.AssemblyInfo.cs
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\obj\Debug\net5.0\SyntaxDemo.csproj.CoreCompileInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\obj\Debug\net5.0\SyntaxDemo.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\obj\Debug\net5.0\ref\SyntaxDemo.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\obj\Debug\net5.0\SyntaxDemo.pdb
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\SyntaxDemo\obj\Debug\net5.0\SyntaxDemo.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\bin\Debug\net5.0\BlazorWithWasm.Shared.deps.json
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\bin\Debug\net5.0\BlazorWithWasm.Shared.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\bin\Debug\net5.0\ref\BlazorWithWasm.Shared.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\bin\Debug\net5.0\BlazorWithWasm.Shared.pdb
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\obj\Debug\net5.0\BlazorWithWasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\obj\Debug\net5.0\BlazorWithWasm.Shared.AssemblyInfoInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\obj\Debug\net5.0\BlazorWithWasm.Shared.AssemblyInfo.cs
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\obj\Debug\net5.0\BlazorWithWasm.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\obj\Debug\net5.0\BlazorWithWasm.Shared.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\obj\Debug\net5.0\ref\BlazorWithWasm.Shared.dll
+C:\Users\Krasimir.Atanasov\source\repos\NewCSharpFeatures\BlazorWithWasm\Shared\obj\Debug\net5.0\BlazorWithWasm.Shared.pdb
